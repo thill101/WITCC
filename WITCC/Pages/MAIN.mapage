@@ -27,7 +27,7 @@
                </handlers>
                <flex>1</flex>
                <title/>
-               <label class="rocket-main-page-icon-text">WITCC</label>
+               <label class="rocket-main-page-icon-text">WITCC2</label>
             </Button>
             <Button>
                <id>Main_News_btn</id>
